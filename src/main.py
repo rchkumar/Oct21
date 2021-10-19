@@ -1,3 +1,3 @@
 # this is for development
 
-added the rquirements 
+added the rquirements adding ...
